@@ -1,25 +1,28 @@
-# FiveM External by MND1337 | Version 1.0 BETA
-![FiveM Mustache](https://i.imgur.com/bezTGSl.png)
+# FiveM AntiCheat by Tigo | Version 2.0 BETA
+![FiveM Mustache](https://i.imgur.com/xulDluF.jpg)
 
-> A Source Code That Chages The FiveM Comunity
+> A resource that detects different types of cheating
 
 ## About
-FlexBase Is A Fivem External Cheat Source With Native UI Remaked In A GUI Lib!
+TigoAntiCheat is a resource written in Lua for detecting cheaters. Because many different executors automatically stop anticheat resources, version 2.0 has changed dramatically. TigoAntiCheat is now only Server side and all client side files of TigoAntiCheat are built dynamically. This way the client files of TigoAntiCheat are hidden and encrypted.
 
 ⚠️ Updating from 1.1 to 2.0 only possible with Whitelisted IPs and Bans
 
+## Requirements
+- Async | [GitHub](https://github.com/ESX-Org/async)
+- Mustache | [GitHub](https://github.com/TigoDevelopment/FiveM-Mustache) or [FiveM Forum](https://forum.cfx.re/t/fivem-mustache-logic-less-mustache-templates-in-fivem-lua/1159921)
 
 ## Installation
-To install FlexBase correctly, read the docs on [Watch The Video Of (.io)](mnd1337.dev/)
+To install TigoAntiCheat correctly, read the docs on [Read the Docs (.io)](https://tigoanticheat.readthedocs.io/)
 
 ## Download
-Download the latest version on [GitHub Releases](https://github.com/KuyaDotLua/Flex-Base/releases)
+Download the latest version on [GitHub Releases](https://github.com/TigoDevelopment/TigoAntiCheat/releases)
 
 ## License
 ```license
 MIT License
 
-Copyright (c) 2020 Thymon Arens (MND1337)
+Copyright (c) 2020 Thymon Arens (TigoDevelopment)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -41,4 +44,4 @@ SOFTWARE.
 ```
 
 ## Disclamer
-FlexBase is a resource written to assist in finding possible cheaters. It does not mean that MND1337 makes cheating on your server impossible. Nor does it mean that FlexBase will be updated as soon as a new or different way of cheating is available. Project will be updated and modified as soon as there is time and reason to update the resource. It is allowed to rename, copy and distribute FlexBase as long as the original LICENSE is added to that project.
+TigoAntiCheat is a resource written to assist in finding possible cheaters. It does not mean that TigoAntiCheat makes cheating on your server impossible. Nor does it mean that TigoAntiCheat will be updated as soon as a new or different way of cheating is available. Project will be updated and modified as soon as there is time and reason to update the resource. It is allowed to rename, copy and distribute TigoAntiCheat as long as the original LICENSE is added to that project.
