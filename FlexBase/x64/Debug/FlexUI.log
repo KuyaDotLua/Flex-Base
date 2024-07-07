@@ -1,0 +1,73 @@
+﻿  main.cpp
+  esp.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\LOCO\Downloads\diamond service srcs (4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/esp/esp.cpp“ wird kompiliert)
+  
+  exploits.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/exploits/exploits.cpp“ wird kompiliert)
+  
+  hotkey.cpp
+  Menu.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/main/Menu.cpp“ wird kompiliert)
+  
+  memory.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (112,9): error C2664: "int _wcsicmp(const wchar_t *,const wchar_t *)" : Konvertierung von Argument 1 von "CHAR [260]" in "const wchar_t *" nicht möglich
+  C:\Users\LOCO\Downloads\diamond service srcs (112,23):
+  Die Typen, auf die verwiesen wird, sind unabhängig; die Konvertierung erfordert eine reinterpret_cast-Umwandlung, eine C-Stil-Umwandlung oder eine in Klammern gesetzte Umwandlung im Funktionsstil.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(304,37):
+  Siehe Deklaration von "_wcsicmp"
+  C:\Users\LOCO\Downloads\diamond service srcs (112,9):
+  bei Anpassung der Argumentliste "(CHAR [260], const wchar_t *)"
+  
+C:\Users\LOCO\Downloads\diamond service srcs (133,9): error C2664: "int _wcsicmp(const wchar_t *,const wchar_t *)" : Konvertierung von Argument 1 von "char [256]" in "const wchar_t *" nicht möglich
+  C:\Users\LOCO\Downloads\diamond service srcs (133,21):
+  Die Typen, auf die verwiesen wird, sind unabhängig; die Konvertierung erfordert eine reinterpret_cast-Umwandlung, eine C-Stil-Umwandlung oder eine in Klammern gesetzte Umwandlung im Funktionsstil.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(304,37):
+  Siehe Deklaration von "_wcsicmp"
+  C:\Users\LOCO\Downloads\diamond service srcs (133,9):
+  bei Anpassung der Argumentliste "(char [256], const _Elem *)"
+          with
+          [
+              _Elem=wchar_t
+          ]
+  
+  FlexUI.cpp
+  FlexUI_demo.cpp
+  FlexUI_draw.cpp
+  FlexUI_impl_dx9.cpp
+  FlexUI_impl_win32.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (114,5): error C2059: Syntaxfehler: ")"
+C:\Users\LOCO\Downloads\diamond service srcs (164,5): error C2059: Syntaxfehler: ")"
+C:\Users\LOCO\Downloads\diamond service srcs (336,5): error C2059: Syntaxfehler: ")"
+  FlexUI_tables.cpp
+  FlexUI_widgets.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (1147,25): warning C4244: "*=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1147,25): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (1147,25): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (1147,25): warning C4244:             _Ty2=float
+C:\Users\LOCO\Downloads\diamond service srcs (1147,25): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (1157,26): warning C4244: "*=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1157,26): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (1157,26): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (1157,26): warning C4244:             _Ty2=float
+C:\Users\LOCO\Downloads\diamond service srcs (1157,26): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (1167,24): warning C4244: "*=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1167,24): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (1167,24): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (1167,24): warning C4244:             _Ty2=float
+C:\Users\LOCO\Downloads\diamond service srcs (1167,24): warning C4244:         ]
+  million.cpp
+  overlay.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/overlay/overlay.cpp“ wird kompiliert)
+  
+  sdk.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/sdk/sdk.cpp“ wird kompiliert)
+  
+  Code wird generiert...

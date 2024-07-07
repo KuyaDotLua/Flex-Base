@@ -1,0 +1,206 @@
+﻿  main.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (17,79): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\LOCO\Downloads\diamond service srcs (17,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\LOCO\Downloads\diamond service srcs (17,34): warning C4244: "return": Konvertierung von "WPARAM" in "int", möglicher Datenverlust
+  esp.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (17,79): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/esp/esp.cpp“ wird kompiliert)
+  
+C:\Users\LOCO\Downloads\diamond service srcs (17,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/esp/esp.cpp“ wird kompiliert)
+  
+C:\Users\LOCO\Downloads\diamond service srcs (300,28): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (305,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (487,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (488,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (489,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (490,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (491,14): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (492,13): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (585,89): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (585,72): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (586,89): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (586,72): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (587,89): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (587,72): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (588,89): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (588,72): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (590,103): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (590,86): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (590,69): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (591,103): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (591,86): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (591,69): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (592,103): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (592,86): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (592,69): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (593,103): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (593,86): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (593,69): warning C4244: "Argument": Konvertierung von "double" in "FLOAT", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (659,47): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (661,47): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (666,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (667,79): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (692,65): warning C4244: "Argument": Konvertierung von "t" in "DWORD", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (692,65): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (692,65): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (692,65): warning C4244:             t=DWORD64
+C:\Users\LOCO\Downloads\diamond service srcs (692,65): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (693,65): warning C4244: "Argument": Konvertierung von "t" in "DWORD", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (693,65): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (693,65): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (693,65): warning C4244:             t=DWORD64
+C:\Users\LOCO\Downloads\diamond service srcs (693,65): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (694,65): warning C4244: "Argument": Konvertierung von "t" in "DWORD", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (694,65): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (694,65): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (694,65): warning C4244:             t=DWORD64
+C:\Users\LOCO\Downloads\diamond service srcs (694,65): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (695,65): warning C4244: "Argument": Konvertierung von "t" in "DWORD", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (695,65): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (695,65): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (695,65): warning C4244:             t=DWORD64
+C:\Users\LOCO\Downloads\diamond service srcs (695,65): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (726,47): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (728,47): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (733,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (734,79): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  exploits.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (17,79): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/exploits/exploits.cpp“ wird kompiliert)
+  
+C:\Users\LOCO\Downloads\diamond service srcs (17,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/exploits/exploits.cpp“ wird kompiliert)
+  
+C:\Users\LOCO\Downloads\diamond service srcs (17,7): warning C4244: "=": Konvertierung von "float" in "BYTE", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (18,7): warning C4244: "=": Konvertierung von "float" in "BYTE", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (19,7): warning C4244: "=": Konvertierung von "float" in "BYTE", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (20,7): warning C4244: "=": Konvertierung von "float" in "BYTE", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (159,54): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (159,54): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (159,54): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (159,54): warning C4244:             T=float
+C:\Users\LOCO\Downloads\diamond service srcs (159,54): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (162,54): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (162,54): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (162,54): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (162,54): warning C4244:             T=float
+C:\Users\LOCO\Downloads\diamond service srcs (162,54): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (196,18): warning C4244: "Initialisierung": Konvertierung von "t" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (196,18): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (196,18): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (196,18): warning C4244:             t=uintptr_t
+C:\Users\LOCO\Downloads\diamond service srcs (196,18): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (202,52): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (202,52): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (202,52): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (202,52): warning C4244:             T=float
+C:\Users\LOCO\Downloads\diamond service srcs (202,52): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (208,52): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (208,52): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (208,52): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (208,52): warning C4244:             T=float
+C:\Users\LOCO\Downloads\diamond service srcs (208,52): warning C4244:         ]
+  hotkey.cpp
+  Menu.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (17,79): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/main/Menu.cpp“ wird kompiliert)
+  
+C:\Users\LOCO\Downloads\diamond service srcs (17,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/main/Menu.cpp“ wird kompiliert)
+  
+C:\Users\LOCO\Downloads\diamond service srcs (84,36): warning C4474: "printf": zu viele Argumente für Formatzeichenfolge übergeben
+  C:\Users\LOCO\Downloads\diamond service srcs (84,36):
+  Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  
+C:\Users\LOCO\Downloads\diamond service srcs (85,31): warning C4474: "printf": zu viele Argumente für Formatzeichenfolge übergeben
+  C:\Users\LOCO\Downloads\diamond service srcs (85,31):
+  Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  
+  memory.cpp
+  FlexUI.cpp
+  FlexUI_demo.cpp
+  FlexUI_draw.cpp
+  FlexUI_impl_dx9.cpp
+  FlexUI_impl_win32.cpp
+  FlexUI_tables.cpp
+  FlexUI_widgets.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (1147,25): warning C4244: "*=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1147,25): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (1147,25): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (1147,25): warning C4244:             _Ty2=float
+C:\Users\LOCO\Downloads\diamond service srcs (1147,25): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (1157,26): warning C4244: "*=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1157,26): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (1157,26): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (1157,26): warning C4244:             _Ty2=float
+C:\Users\LOCO\Downloads\diamond service srcs (1157,26): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (1167,24): warning C4244: "*=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1167,24): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (1167,24): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (1167,24): warning C4244:             _Ty2=float
+C:\Users\LOCO\Downloads\diamond service srcs (1167,24): warning C4244:         ]
+  million.cpp
+  overlay.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (17,79): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/overlay/overlay.cpp“ wird kompiliert)
+  
+C:\Users\LOCO\Downloads\diamond service srcs (17,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/overlay/overlay.cpp“ wird kompiliert)
+  
+C:\Users\LOCO\Downloads\diamond service srcs (370,68): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (371,77): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (372,77): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (373,80): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (374,80): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (488,19): warning C4244: "Initialisierung": Konvertierung von "t" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (488,19): warning C4244:         with
+C:\Users\LOCO\Downloads\diamond service srcs (488,19): warning C4244:         [
+C:\Users\LOCO\Downloads\diamond service srcs (488,19): warning C4244:             t=uintptr_t
+C:\Users\LOCO\Downloads\diamond service srcs (488,19): warning C4244:         ]
+C:\Users\LOCO\Downloads\diamond service srcs (978,7): warning C4101: "windows_directory": Unreferenzierte lokale Variable
+C:\Users\LOCO\Downloads\diamond service srcs (1149,23): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1150,23): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1186,10): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\LOCO\Downloads\diamond service srcs (1222,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1222,66): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1222,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1222,50): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1229,21): warning C4838: Konvertierung von "int" zu "DWORD" erfordert eine einschränkende Konvertierung
+C:\Users\LOCO\Downloads\diamond service srcs (1229,24): warning C4838: Konvertierung von "int" zu "DWORD" erfordert eine einschränkende Konvertierung
+C:\Users\LOCO\Downloads\diamond service srcs (1236,186): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1236,169): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1236,151): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1236,133): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1236,79): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1236,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1236,59): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1236,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1297,9): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1298,9): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1302,89): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1302,82): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1303,89): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1303,82): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1304,89): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1304,82): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1305,89): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1305,82): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1307,82): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\LOCO\Downloads\diamond service srcs (1307,79): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  sdk.cpp
+C:\Users\LOCO\Downloads\diamond service srcs (17,79): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/sdk/sdk.cpp“ wird kompiliert)
+  
+C:\Users\LOCO\Downloads\diamond service srcs (17,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „../../../diamond%20service%20srcs%20#7%20ext%20(1)/diamond%20service%20source%207/FlexUI/sdk/sdk.cpp“ wird kompiliert)
+  
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 2071 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  FlexUI.vcxproj -> C:\Users\LOCO\Downloads\diamond service srcs #7 ext (1)\diamond service source 7\FlexUI\x64\Build\Flex External.exe
