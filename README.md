@@ -5,7 +5,8 @@
 
 ## About
 Make Sure to join our discord server becouse the old one got termed (free sources)
-[Discord]((https://discord.gg/CYcSuStetd))
+[Discord](https://discord.gg/CYcSuStetd)
+
 
 ## About
 FlexBase Is A Fivem External Cheat Source With Native UI Remaked In A GUI Lib!
