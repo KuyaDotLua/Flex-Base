@@ -4,6 +4,10 @@
 > A Source Code That Chages The FiveM Comunity
 
 ## About
+Make Sure to join our discord server becouse the old one got termed (free sources)
+[Discord]((https://discord.gg/CYcSuStetd))
+
+## About
 FlexBase Is A Fivem External Cheat Source With Native UI Remaked In A GUI Lib!
 
 ⚠️ Updating from 1.1 to 2.0 only possible with Whitelisted IPs and Bans
